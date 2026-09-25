@@ -1,4 +1,4 @@
-print("User Management API")
-print("Git version control enebled")
+print("User Management Backend")
+print("Git version control enabled")
 
 print("Authentication feature")
